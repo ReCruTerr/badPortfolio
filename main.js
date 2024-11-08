@@ -1,5 +1,5 @@
 const qr_code = new QRCode(document.querySelector('.qrCode'),{
-    text:'https://badPortfolio.netlify.app/',
+    text:'https://badportfolio.netlify.app/',
     width: 180,
     height: 180,
     colorDark : "#000000",
